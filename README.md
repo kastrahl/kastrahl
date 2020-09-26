@@ -1,5 +1,5 @@
-<img src="https://github.com/kastrahl/kastrahl/blob/master/1_jB76MLZjiNhGSQQvxm7LSQ.gif" align='centre'>
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm kush
+<img src="https://github.com/kastrahl/kastrahl/blob/master/1_jB76MLZjiNhGSQQvxm7LSQ.gif" height="40" align='centre'>
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm kush
 
 - 🔭 I’m currently working on Android development primarily and compeititve programming
 - 🌱 I’m currently learning Data Structures and Algorithms
