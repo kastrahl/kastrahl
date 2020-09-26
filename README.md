@@ -5,7 +5,7 @@
  
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm kush
 
-- 🔭 I’m currently working on Android development primarily and compeititve programming
+- 🔭 I’m currently working on Android development primarily and competitive programming
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on my learning project of app development
 - 🤔 I’m looking for mentors to help me grow .
