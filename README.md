@@ -1,4 +1,3 @@
-<img src="https://github.com/kastrahl/kastrahl/blob/master/1_jB76MLZjiNhGSQQvxm7LSQ.gif" height="300" align ="center" >
 <p align="center">
   <img height="300" src="https://github.com/kastrahl/kastrahl/blob/master/1_jB76MLZjiNhGSQQvxm7LSQ.gif">
 </p>
