@@ -9,12 +9,17 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: HUGELY INTO GAMING AND GEEKING OUT 
 
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> -->
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=kastrahl alt=Kastrahl/> </p> 
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=kastrahl&show_icons=true&theme=blue-green&?count_private=true">
 <IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=kastrahl&theme=blue-green&&layout=compact">
-------
+
+
+
+
+
+
 <a href="https://www.linkedin.com/in/kastrahl/">
   <img align="left" alt="Kush's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
