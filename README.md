@@ -9,4 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: HUGELY INTO GAMING AND GEEKING OUT 
 
-[![KastRahl's github stats] https://github-readme-stats.vercel.app/api?username=kastrahl&show_icons=true&theme=radical
+[KastRahl's github stats] https://github-readme-stats.vercel.app/api?username=kastrahl&show_icons=true&theme=radical
