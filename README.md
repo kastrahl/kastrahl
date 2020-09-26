@@ -1,4 +1,5 @@
-### Hi there 👋 I'm kush
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ ### I'm kush
 
 - 🔭 I’m currently working on Android development primarily and compeititve programming
 - 🌱 I’m currently learning Data Structures and Algorithms
