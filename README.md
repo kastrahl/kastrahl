@@ -10,3 +10,4 @@
 - ⚡ Fun fact: HUGELY INTO GAMING AND GEEKING OUT 
 
 <img src="https://github-readme-stats.vercel.app/api?username=kastrahl&show_icons=true&theme=blue-green&?count_private=true">
+<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=kastrahl&theme=blue-green&&layout=compact">
