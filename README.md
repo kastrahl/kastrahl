@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**kastrahl/kastrahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm kush
 
 - 🔭 I’m currently working on Android development primarily and compeititve programming
 - 🌱 I’m currently learning Data Structures and Algorithms
@@ -14,4 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: HUGELY INTO GAMING AND GEEKING OUT 
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api?username=kastrahl&show_icons=true&theme=radical
