@@ -16,9 +16,8 @@
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=kastrahl alt=Kastrahl/> </p> 
 
-
+<iframe src="https://discordapp.com/widget?id=326031927016554506&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <img src="https://github-readme-stats.vercel.app/api?username=kastrahl&show_icons=true&theme=blue-green&?count_private=true">
-<img src="https://discordapp.com/widget?id=326031927016554506&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" align="right">
 <IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=kastrahl&theme=blue-green&&layout=compact">
 
 
