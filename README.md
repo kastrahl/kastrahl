@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/kastrahl/">
   <img align="left" alt="Kush's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/k.aroura_/">
+<a href="https://www.instagram.com/k.aroura/">
   <img align="left" alt="Kush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/scientifickushagraarora">
