@@ -3,15 +3,15 @@
 </p>
  
  
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm kush
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm kush !
 
-- 🔭 I’m currently working on Android development primarily and competitive programming
+- 🔭 I’m currently working on Android development and competitive programming
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on my learning project of app development
-- 🤔 I’m looking for mentors to help me grow .
-- 💬 Ask me about anything and let's have a hearty chat over some hot tea.
-- 📫 How to reach me: I do have some presence online such as
-- 😄 Pronouns: ...
+- 👯 I’m looking to collaborate on my learning project (App Development)
+- 🤔 I’m looking for mentors to help me grow anmd learn.
+- 💬 Ask me about anything; let's have a hearty chat over some hot coffee.
+- 📫 How to reach me: Hit me up on discord : KASTRAHL#6136
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: HUGELY INTO GAMING AND GEEKING OUT 
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=kastrahl alt=Kastrahl/> </p> 
