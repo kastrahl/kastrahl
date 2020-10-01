@@ -17,7 +17,7 @@
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=kastrahl alt=Kastrahl/> </p> 
 <img src="https://github.com/kastrahl/kastrahl/blob/master/coder%20guy.gif" width="250" align='right'>
--> lets walk the path of open source
+<p align="right"> Self learning AI in a meat suit </p>
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kastrahl&show_icons=true&theme=blue-green&?count_private=true">
