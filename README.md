@@ -17,6 +17,9 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=kastrahl alt=Kastrahl/> </p> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=kastrahl&show_icons=true&theme=blue-green&?count_private=true">
+<p align="right">
+  <img height="300" src="https://github.com/kastrahl/kastrahl/blob/master/coder%20guy.gif">
+</p>
 <IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=kastrahl&theme=blue-green&&layout=compact">
 
 [![Discord](https://img.shields.io/discord/326031927016554506.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/dhMXznV)
