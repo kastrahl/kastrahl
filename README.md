@@ -14,6 +14,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: HUGELY INTO GAMING AND GEEKING OUT 
 -----
+<p align="center">
+  <img src="tumblr_p60mgpdYwb1u0cbvdo1_1280.gif" />
+</p>
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=kastrahl alt=Kastrahl/> </p> 
 
