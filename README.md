@@ -24,6 +24,16 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kastrahl&show_icons=true&theme=blue-green&?count_private=true">
 <IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=kastrahl&theme=blue-green&&layout=compact">
 
+
+
+https://github.com/kastrahl/kastrahl/assets/56175823/b679fb76-86a7-4e62-a546-f1d9c7656dcd
+
+
+
+figuring out how to autoplay unmute this video for a cooler github profile.<br/>
+just like tron <br/>
+But github hates those HTML tags...... 
+
 <!---
 [![Discord](https://img.shields.io/discord/326031927016554506.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/dhMXznV)
 
