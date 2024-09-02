@@ -5,27 +5,37 @@
  
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Kushagra
 
-- 🔭 I’m currently working     -  Back-end Development
-- 🌱 I’m currently learning    -  Java
-- 🤔 I’m looking for mentors   
-- 💬 Ask me about any previous projects here and how I can go in depth.
-- 📫 How to reach me: I do have some presence online such as twitter linked below my profile picture
-- 😄 Pronouns:  Deus ex Machina 
+-  About me 
+    - A recent graduate with bachelors in IT engineering
+    - An Avid learner
+    - A budding musician, a writer and a poet
+-  What I do ?
+    - currently working on  -  System administration and orchestration with Linux and Cloud ( Azure & GCP )
+    - currently learning    -  Back-end Development with Java and SpringBoot
+- Let's Connect 
+    - 🤔 I’m actively looking for mentors for my tech journey, ping me at linkedin. 
+    - 💬 Ask me about any previous projects here and how I can go improve upon them, always open for collaboration. 
 -----
+  
+<!---
 <p align="center">
   <img src="tumblr_p60mgpdYwb1u0cbvdo1_1280.gif" />
 </p>
 
+
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=kastrahl alt=Kastrahl/> </p> 
+
 
 <img src="https://github.com/kastrahl/kastrahl/blob/master/coder%20guy.gif" width="250" align='right'>
 <br/>
+--->
 
-<img src="https://github-readme-stats.vercel.app/api?username=kastrahl&show_icons=true&theme=blue-green&?count_private=true">
-<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=kastrahl&theme=blue-green&&layout=compact">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kastrahl&show_icons=true&theme=blue-green&?count_private=true" width="400">
+<img SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=kastrahl&theme=blue-green&&layout=compact" width="300">
+</p>
 
-
-
+<!---
 https://github.com/kastrahl/kastrahl/assets/56175823/b679fb76-86a7-4e62-a546-f1d9c7656dcd
 
 
@@ -34,7 +44,7 @@ figuring out how to autoplay unmute this video for a cooler github profile.<br/>
 just like tron <br/>
 But github hates those HTML tags...... 
 
-<!---
+
 [![Discord](https://img.shields.io/discord/326031927016554506.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/dhMXznV)
 
 <a href="https://www.linkedin.com/in/kastrahl/">
